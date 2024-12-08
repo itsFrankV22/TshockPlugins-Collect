@@ -1,7 +1,7 @@
 # TshockPlugins---Collect
 Colección de plugins para TShock. ¡Agrega tus plugins aquí!
 
-> [!NOTA]
+> [!NOTE]
 IF YOU SPEAK ANOTHER LANGUAGE PLEASE VISIT [README_EN](README_EN.md) TO READ THIS IN ENGLISH
 
 ## Plugins de FrankV22:
