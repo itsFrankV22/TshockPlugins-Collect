@@ -8,3 +8,9 @@ Collection of plugins for tshock, Add yours Plugins here!
 
 + ### [PlayerParticle](https://github.com/itsFrankV22/PlayerParticle-Plugin)
 > Tshock Plugin: Generate Particle Decoratives on player join and death, configurable
+
++ ### [FloatingText-Chat](https://github.com/itsFrankV22/FloatingText-Chat)
+> Tshock Plugin Shows a better Floating texts above players when they send a message in chat
+
++ ### [ShowSlots](https://github.com/itsFrankV22/ShowSlots-ES)
+> Shows Armors and equip by players when they send a message in chat `/show` `/mostrar`
