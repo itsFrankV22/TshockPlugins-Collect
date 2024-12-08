@@ -1,6 +1,8 @@
 # TshockPlugins---Collect
 Collection of plugins for tshock, Add yours Plugins here!
 
+> [!NOTE]
+SI HABLAS OTRO IDIOMA POR FAVOR VISITA [README_ES](README_ES.md) PARA LEER ESTO EN ESPANOL
 
 ## FrankV22 Plugins:
 + ### [ItemsDeco](https://github.com/itsFrankV22/ItemsDeco-Plugin)
