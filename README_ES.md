@@ -4,12 +4,12 @@ Colección de plugins para TShock. ¡Agrega tus plugins aquí!
 > [!NOTE]
 IF YOU SPEAK ANOTHER LANGUAGE PLEASE VISIT [README_EN](README_EN.md) TO READ THIS IN ENGLISH
 
-+ ### [GetInfoPlayer](https://github.com/itsFrankV22/PlayerGetInfo)
-> Tshock Plugin: Muestra info de los jugadores tanto con comandos como al unirse etc...
-
 ## Plugins de FrankV22:
 + ### [ItemsDeco](https://github.com/itsFrankV22/ItemsDeco-Plugin)
 > Plugin de TShock: Decora objetos en el chat y muestra texto flotante debajo del nombre.
+
++ ### [GetInfoPlayer](https://github.com/itsFrankV22/PlayerGetInfo)
+> Tshock Plugin: Muestra info de los jugadores tanto con comandos como al unirse etc...
 
 + ### [PlayerParticle](https://github.com/itsFrankV22/PlayerParticle-Plugin)
 > Plugin de TShock: Genera partículas decorativas cuando un jugador se une o muere. Configurable.
