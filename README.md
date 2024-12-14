@@ -8,7 +8,7 @@ SI HABLAS OTRO IDIOMA POR FAVOR VISITA [README_ES](README_ES.md) PARA LEER ESTO 
 + ### [ItemsDeco](https://github.com/itsFrankV22/ItemsDeco-Plugin)
 > Tshock Plugin: Decoration items in chat and floating text below name...
 
-+ ### [GetInfoPlayerUtil]([https://github.com/itsFrankV22/PlayerGetInfo](https://github.com/itsFrankV22/ESSENTIALS-GetInfoUtil))
++ ### [GetInfoPlayerUtil]([https://github.com/itsFrankV22/PlayerGetInfo](https://github.com/itsFrankV22/ESSENTIALS-GetInfoUtil)
 > Tshock Plugin: Shows player information both with commands and when joining etc...
 
 + ### [PlayerParticle](https://github.com/itsFrankV22/PlayerParticle-Plugin)
