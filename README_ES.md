@@ -11,7 +11,7 @@ IF YOU SPEAK ANOTHER LANGUAGE PLEASE VISIT [README_EN](README_EN.md) TO READ THI
 + ### [ESSENTIALSGetInfoUtil](https://github.com/itsFrankV22/ESSENTIALS-GetInfoUtil) 
 > Tshock Plugin: Muestra info de los jugadores tanto con comandos como al unirse etc...
 
-+### [WorldPingVisualizerPlugin](https://github.com/itsFrankV22/WorldPingVisualizerPlugin)
++ ### [WorldPingVisualizerPlugin](https://github.com/itsFrankV22/WorldPingVisualizerPlugin)
 > Show Particle in ping map
 
 + ### [PlayerParticle](https://github.com/itsFrankV22/PlayerParticle-Plugin)
