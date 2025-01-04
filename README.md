@@ -1,6 +1,10 @@
 # TshockPlugins---Collect
 Collection of plugins for tshock, Add yours Plugins here!
 
+## TerraLatamWorld my server :3
+> `terralatamwodrl.sytes.net`
+> `8561`
+
 > [!NOTE]
 SI HABLAS OTRO IDIOMA POR FAVOR VISITA [README_ES](README_ES.md) PARA LEER ESTO EN ESPANOL
 
@@ -117,9 +121,11 @@ SI HABLAS OTRO IDIOMA POR FAVOR VISITA [README_ES](README_ES.md) PARA LEER ESTO 
 + ### [TCR-TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
 > Highly customizable Terraria Chat Relay with multiple Discord server support
 
-+ ### []
++ ### [Crossplay](https://github.com/Moneylover3246/Crossplay)
+> Provides support for mobile and other older-versioned players to join terraria servers on the newer versions.
 
-
++ ### [ShortCommands](https://github.com/Zaicon/ShortCommands)
+> ...
 
 
 
