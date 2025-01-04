@@ -93,3 +93,51 @@ SI HABLAS OTRO IDIOMA POR FAVOR VISITA [README_ES](README_ES.md) PARA LEER ESTO 
 + ### [ViewInventory](https://github.com/Soof4/ViewInventory)
 > Shows players' inventories in chat. <br>
      _**Note:** Creator of this plugin is [@skywhale-zhi](https://github.com/skywhale-zhi)_
+
+
+## Others Plugins:
+
+### [TShock Chinese Plugin Collection | TShock中文插件搜集仓库 by UnrealMultiple](https://github.com/UnrealMultiple/TShockPlugin)
+> This is a repository dedicated to collecting and integrating TShock Chinese plugins. We will continue to collect high-quality TShock Chinese plugins and update them in a timely manner.
+这是一个致力于收集整合 TShock中文插件的仓库，我们将持续收集优质的 TShock 中文插件，并及时进行更新.
+
+
++ ### [DiemobRegions](https://github.com/InanZen/DieMob)
+> Diemob Regions plugin
+
++ ### [RegionVision](https://github.com/AndrioCelos/Region-Vision)
+> A plugin to visibly show TShock region boundaries
+
++ ### [AutoTeam](https://github.com/TerraTrapezium/AutoTeam)
+> Automatically assigns players a configurable team on world join.
+
++ ### [IRCrarria](https://github.com/lemon-sh/IRCrarria)
+> A very simple IRC<->Terraria chat bridge. Tested on TShock 4.5.5.
+
++ ### [TCR-TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
+> Highly customizable Terraria Chat Relay with multiple Discord server support
+
++ ### []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
