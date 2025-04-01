@@ -3,7 +3,10 @@ Colección de plugins para TShock. ¡Agrega tus plugins aquí!
 
 ## TerraLatamWorld my server :3
 > `terralatamwodrl.sytes.net`
-> `8561`
+> `7777`
+
+Otra IP
+> `terralatamwodrl.mcst.pro`
 
 > [!NOTE]
 IF YOU SPEAK ANOTHER LANGUAGE PLEASE VISIT [README_EN](README_EN.md) TO READ THIS IN ENGLISH
