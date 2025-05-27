@@ -12,6 +12,10 @@ Otra IP
 IF YOU SPEAK ANOTHER LANGUAGE PLEASE VISIT [README_EN](README_EN.md) TO READ THIS IN ENGLISH
 
 ## Plugins de FrankV22:
+
++ ### [LIVEMAP_TumundoPNG](https://github.com/itsFrankV22/tShock-LiveMap_MapPNG)
+> Tshock Plugin: Exporta tu mundo a png
+
 + ### [ItemsDeco](https://github.com/itsFrankV22/ItemsDeco-Plugin)
 > Plugin de TShock: Decora objetos en el chat y muestra texto flotante debajo del nombre.
 
