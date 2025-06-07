@@ -13,7 +13,7 @@ SI HABLAS OTRO IDIOMA POR FAVOR VISITA [README_ES](README_ES.md) PARA LEER ESTO 
 
 ## FrankV22 Plugins:
 
-+ ### [LIVEMAP_TumundoPNG](https://github.com/itsFrankV22/tShock-LiveMap_MapPNG)
++ ### [LIVEMAP_YourWorldPNG](https://github.com/itsFrankV22/tShock-LiveMap_MapPNG)
 > Tshock Plugin: Export you world to png
 
 + ### [ItemsDeco](https://github.com/itsFrankV22/ItemsDeco-Plugin)
